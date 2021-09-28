@@ -1,0 +1,23 @@
+button {
+    background: #2bc32b;
+    height: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 0px 0px #6a6a6a;
+    width: 80px;
+    border: none;
+    margin: 5px;
+    color: white;
+    font-size: 1.4rem;
+    cursor: pointer;
+}
+
+button:active {
+    background: #2bc32b;
+    transform: translateY(2px);
+    box-shadow: 0 1px 0 0 #6a6a6a;
+}
+
+h1 {
+    color: #464646;
+    text-shadow: 0 0 2px #393939;
+}
